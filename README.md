@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a Senior Software Engineer living in Greece
+Current company: Ionia 
+Previous: Intralot, Athens Stock Exchange, Info-Quest, Intrasoft International 
+
+Education: 
+National Technical University of Athens - Electrical and Computer Engineering 
+Carnegie Mellon University USA - MSc in Information Networking
+
 <!--
 **agouliel/agouliel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
