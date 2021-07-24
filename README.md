@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am a Senior Software Engineer living in Greece
-Current company: Ionia 
-Previous: Intralot, Athens Stock Exchange, Info-Quest, Intrasoft International 
+I am a Senior Software Engineer living in Greece.
+My current company is Ionia
+Previously I have been employed by: Intralot, Athens Stock Exchange, Info-Quest, Intrasoft International
 
-Education: 
-National Technical University of Athens - Electrical and Computer Engineering 
+Education:
+National Technical University of Athens - Electrical and Computer Engineering
 Carnegie Mellon University USA - MSc in Information Networking
 
 <!--
