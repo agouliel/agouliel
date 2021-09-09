@@ -2,9 +2,12 @@
 
 I am a Senior Software Engineer living in Greece. My current company is Ionia Management. Previously I have been employed by: Intralot, Athens Stock Exchange, Info-Quest, and Intrasoft International.
 
+Education
 <details>
-<summary>Education</summary>
-National Technical University of Athens (Electrical and Computer Engineering) and Carnegie Mellon University USA (MSc in Information Networking)
+<summary>National Technical University of Athens (Electrical and Computer Engineering)</summary>
+Thesis: A Comparative Study of 802.11 Wireless LANs Using NS-2
+<summary>Carnegie Mellon University USA (MSc in Information Networking)</summary>
+Thesis: RFID Technology in Future Automobiles (sponsored by General Motors)
 </details>
 
 <!--
