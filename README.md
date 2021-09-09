@@ -6,8 +6,6 @@ Education
 <details>
 <summary>National Technical University of Athens (Electrical and Computer Engineering)</summary>
 Thesis: A Comparative Study of 802.11 Wireless LANs Using NS-2
-<summary>Carnegie Mellon University USA (MSc in Information Networking)</summary>
-Thesis: RFID Technology in Future Automobiles (sponsored by General Motors)
 </details>
 <details>
 <summary>Carnegie Mellon University USA (MSc in Information Networking)</summary>
