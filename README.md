@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Software Engineer living in Greece. My current company is Digitech Marketing. Previously I have been employed by: Ionia Management, Intralot, Athens Stock Exchange, Info-Quest, and Intrasoft International.
+I am a Senior Software Engineer living in Greece. My current company is BrainCube. Previously I have been employed by: Digitech, Ionia, Intralot, Athens Exchange, Info-Quest, and Intrasoft International.
 
 ### Education
 <details>
